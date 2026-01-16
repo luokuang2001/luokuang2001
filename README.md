@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 -->
 
 
-![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=luokuang2001)
-
 
