@@ -1,5 +1,5 @@
 
-👋 Hello there！I am Kuang Luo
+👋 Hello there！I am Kuang Luo.
 
 
 <!--
